@@ -1,0 +1,30 @@
+{
+  "digitalTwin": "Storm Playing The Field",
+  "realIdentity": {
+    "name": "Chris Oakley",
+    "xHandle": "oakley_chr83927"
+  },
+  "recordType": "Kickstarter Backer",
+  "project": "Lunar Mission One",
+  "campaignYear": 2015,
+  "wallOfThanks": {
+    "section": "S",
+    "exactEntry": "Storm Playing The Field"
+  },
+  "source": "https://archive.lunarmissionone.com/Community/wall-of-thanks.html",
+  "verificationDate": "2026-05-22",
+  "lastUpdated": "2026-05-26",
+  "status": "Permanently Archived",
+  "significance": "Official Moon presence through Lunar Mission One Wall of Thanks",
+  "partOf": "Sovereign Stack & Digital Twin Archive",
+  "professionalDomains": [
+    "6G and IoT",
+    "Cloud SRE",
+    "AI/ML Platforms",
+    "Embodied AI",
+    "Humanoid Robotics",
+    "AI-Native Networks",
+    "RAN Automation",
+    "Quantum Security"
+  ]
+}
