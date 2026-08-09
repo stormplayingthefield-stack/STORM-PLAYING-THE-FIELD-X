@@ -2,9 +2,11 @@
   "digitalTwin": "Storm Playing The Field",
   "realIdentity": {
     "name": "Chris Oakley",
-    "xHandle": "oakley_chr83927"
+    "xHandle": "oakley_chr83927",
+    "company": "Drive Test Engineering Solutions Limited",
+    "companiesHouse": "06623695"
   },
-  "recordType": "Kickstarter Backer",
+  "recordType": "Kickstarter Backer + Sovereign Identity Fusion",
   "project": "Lunar Mission One",
   "campaignYear": 2015,
   "wallOfThanks": {
@@ -13,9 +15,9 @@
   },
   "source": "https://archive.lunarmissionone.com/Community/wall-of-thanks.html",
   "verificationDate": "2026-05-22",
-  "lastUpdated": "2026-05-26",
-  "status": "Permanently Archived",
-  "significance": "Official Moon presence through Lunar Mission One Wall of Thanks",
+  "lastUpdated": "2026-08-09",
+  "status": "Permanently Archived + Multi-Channel Fusion",
+  "significance": "Official Moon presence through Lunar Mission One Wall of Thanks; TM Forum membership; Unstoppable Domains spatial Moon Base presence",
   "partOf": "Sovereign Stack & Digital Twin Archive",
   "professionalDomains": [
     "6G and IoT",
@@ -25,6 +27,30 @@
     "Humanoid Robotics",
     "AI-Native Networks",
     "RAN Automation",
-    "Quantum Security"
-  ]
+    "Quantum Security",
+    "Edge Computing",
+    "Telecom Standards (TM Forum)"
+  ],
+  "tmForum": {
+    "membership": "Drive Test Engineering Solutions Limited",
+    "profile": "Chris Oakley",
+    "status": "Documented via platform screenshots (August 2026)"
+  },
+  "web3Domain": {
+    "url": "http://www.drive-test-engineering-solutions-limited.ai/",
+    "platform": "Unstoppable Domains",
+    "theme": "Moon Base / Spatial Ready / Vault 9",
+    "ids": [
+      "vertiport-id-hot",
+      "sovereignrobotics",
+      "oakley-chr83927",
+      "id-hot-pd1-ce111435"
+    ]
+  },
+  "cryptographicHash": "id-hot-pd1-ce111435",
+  "signatureMove": {
+    "title": "SIGNATURE MOVE",
+    "destination": "Moon Deep Space",
+    "historicalProvenance": "Storm - Playing The Field (1991)"
+  }
 }
