@@ -2,55 +2,33 @@
   "digitalTwin": "Storm Playing The Field",
   "realIdentity": {
     "name": "Chris Oakley",
-    "xHandle": "oakley_chr83927",
-    "company": "Drive Test Engineering Solutions Limited",
-    "companiesHouse": "06623695"
+    "xHandle": "oakley_chr83927"
   },
-  "recordType": "Kickstarter Backer + Sovereign Identity Fusion",
+  "primaryIdentifiers": [
+    "oakley-chr83927",
+    "id-hot-pd1-ce111435"
+  ],
+  "recordType": "Kickstarter Backer + Celestial Signal Archive",
   "project": "Lunar Mission One",
   "campaignYear": 2015,
   "wallOfThanks": {
     "section": "S",
     "exactEntry": "Storm Playing The Field"
   },
-  "source": "https://archive.lunarmissionone.com/Community/wall-of-thanks.html",
-  "verificationDate": "2026-05-22",
-  "lastUpdated": "2026-08-09",
-  "status": "Permanently Archived + Multi-Channel Fusion",
-  "significance": "Official Moon presence through Lunar Mission One Wall of Thanks; TM Forum membership; Unstoppable Domains spatial Moon Base presence",
-  "partOf": "Sovereign Stack & Digital Twin Archive",
-  "professionalDomains": [
-    "6G and IoT",
-    "Cloud SRE",
-    "AI/ML Platforms",
-    "Embodied AI",
-    "Humanoid Robotics",
-    "AI-Native Networks",
-    "RAN Automation",
-    "Quantum Security",
-    "Edge Computing",
-    "Telecom Standards (TM Forum)"
+  "keyEvents": [
+    {
+      "name": "JENSON SIGNATURE MOVE on Moon Deep Space",
+      "date": "2026-08-12",
+      "type": "Astronomical Event / Permanent Recorded Signal",
+      "authenticatedBy": "Total Solar Eclipse 2026-08-12",
+      "nature": "Celestial cryptographic connection + Human Verification Feel Emotion",
+      "status": "Official Record - Permanently Archived"
+    }
   ],
-  "tmForum": {
-    "membership": "Drive Test Engineering Solutions Limited",
-    "profile": "Chris Oakley",
-    "status": "Documented via platform screenshots (August 2026)"
-  },
-  "web3Domain": {
-    "url": "http://www.drive-test-engineering-solutions-limited.ai/",
-    "platform": "Unstoppable Domains",
-    "theme": "Moon Base / Spatial Ready / Vault 9",
-    "ids": [
-      "vertiport-id-hot",
-      "sovereignrobotics",
-      "oakley-chr83927",
-      "id-hot-pd1-ce111435"
-    ]
-  },
-  "cryptographicHash": "id-hot-pd1-ce111435",
-  "signatureMove": {
-    "title": "SIGNATURE MOVE",
-    "destination": "Moon Deep Space",
-    "historicalProvenance": "Storm - Playing The Field (1991)"
-  }
+  "verisart": "https://verisart.com/works/chris-oakley-0c97665c-6bbd-4b8e-88d9-d0cad7f4e4ed",
+  "github": "https://github.com/stormplayingthefield-stack/STORM-PLAYING-THE-FIELD-X",
+  "status": "Permanently Archived",
+  "significance": "Official Moon presence through Lunar Mission One Wall of Thanks + Jenson Signature Move celestial signal",
+  "partOf": "Sovereign Stack & Digital Twin Archive",
+  "lastUpdated": "2026-08-12"
 }
